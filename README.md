@@ -63,6 +63,7 @@ while True:
 ## OUTPUT:
 
 server:
+
 <img width="916" height="259" alt="image" src="https://github.com/user-attachments/assets/2bc776c1-be8d-4f11-8511-38199e47088b" />
 
 client:
